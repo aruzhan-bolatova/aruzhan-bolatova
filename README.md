@@ -32,8 +32,5 @@
   </tr>
 </table>
 
-## Random quote! See if you can relate to it:)
+## ✍️ Random quote! See if you can relate to it:)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-
-
