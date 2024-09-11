@@ -6,7 +6,7 @@
       Hi, I'm Aruzhan, a third-year student at NYU. I major in Computer Science, and minor in Applied Mathematics, Natural Sciences, Interactive Media. I enjoy coding and problem solving! My ultimate goal is to harness the power of computer science and technology to improve the lives of individuals and communities, with particular focus in the field of biomedicine.
     </td>
     <td>
-      <img src="https://camo.githubusercontent.com/b70081ec9c6d16a35bf18610619030bfc810cda3118051cf75ace93700e233c1/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966" alt="Coding Image" width="600">
+      <img src="[https://camo.githubusercontent.com/b70081ec9c6d16a35bf18610619030bfc810cda3118051cf75ace93700e233c1/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw2-GKXnuxorYsGJ7HmuBYmJ&ust=1726173295711000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjFsOXeu4gDFQAAAAAdAAAAABAj)" alt="Coding Image" width="600">
     </td>
   </tr>
 </table>
